@@ -1,0 +1,2 @@
+# redisComponent
+redis python component
